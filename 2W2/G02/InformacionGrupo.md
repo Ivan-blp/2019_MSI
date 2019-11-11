@@ -13,7 +13,7 @@
 | 110151 | Loza Corinti, Gabriel |[LozCor](https://github.com/lozcor)|[Gabriel Loza Corinti](https://www.linkedin.com/in/gabriel-alfredo-loza-corinti-367a9912a/)|
 | 110152 | Quiroga, Facundo Emanuel |[BohemKorp](https://github.com/BohemKorp)|[Facundo Emanuel Quiroga](https://www.linkedin.com/in/fequiroga96/)|
 | 110051 | Figueroa, Alexis Gabriel |[DesarrolloAF](https://github.com/DesarrolloAF)|[Alexis Gabriel Figueroa](https://www.linkedin.com/in/alexis-gabriel-figueroa-139777162/)|
-| 111111 | Genaud, Gastón |[UsuarioGitHub](gaston-g-utn)|[UserLinkedin](https://ar.linkedin.com/in/gast%C3%B3n-genaud-048b98163)|
+| 110245| Genaud, Gastón |[UsuarioGitHub](gaston-g-utn)|[UserLinkedin](https://ar.linkedin.com/in/gast%C3%B3n-genaud-048b98163)|
 
 # Checklist de estado de actividad
 
